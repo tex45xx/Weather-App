@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 20px;
+}
+
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+.container{
+   
+    padding: 10px;
+    text-align: center;
+    margin-bottom: 100px;
+    width: 100%;
+    max-width: 500px;
+    
+}
+.input{
+    display: flex;
+    
+    margin: 50px;
+   
+
+}
+
+.input input{
+    padding: 10px;
+    border-style: groove;
+    border-radius: 5px;
+    font-size: 20px;
+    width: 200px;
+    
+    
+}
+
+.input button{
+   
+    color:whitesmoke;
+    background-color: blue;
+    cursor: pointer;
+    border-radius: 8px;
+    padding: 10px;
+    font-size: 20px;
+    
+}
+
